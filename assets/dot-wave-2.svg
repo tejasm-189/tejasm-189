@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12">
+  <defs>
+    <filter id="g">
+      <feGaussianBlur stdDeviation="0.7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <circle cx="6" cy="6" r="4" filter="url(#g)">
+    <animate attributeName="fill"
+      values="#00ff7f;#00cc66;#00ff7f;#33ffaa;#00ff7f"
+      keyTimes="0;0.3;0.6;0.85;1"
+      dur="3.6s"
+      begin="0.8s"
+      repeatCount="indefinite" />
+  </circle>
+</svg>

@@ -12,10 +12,12 @@ Inside each dropdown:
 <h1 align="center"><code>tejas@system:~$</code> whoami</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FF7F&center=true&vCenter=true&width=900&lines=Software+Engineer+%E2%80%A2+AI%2FML+%E2%80%A2+.NET+%E2%80%A2+Cloud;Building+RAGs%2C+tool+calling%2C+secure+backends;Curiosity-driven.+Minimal+footprint."
-    alt="typing"
-  />
+  <span style="pointer-events: none;">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FF7F&center=true&vCenter=true&width=900&lines=Software+Engineer+%E2%80%A2+AI%2FML+%E2%80%A2+.NET+%E2%80%A2+Cloud;Building+RAGs%2C+tool+calling%2C+secure+backends;Curiosity-driven.+Minimal+footprint."
+      alt="typing"
+    />
+  </span>
 </p>
 
 <p align="center">

@@ -32,14 +32,9 @@ Inside each dropdown:
 </p>
 
 <details>
-  <summary><strong>🟢 projects / artifacts</strong></summary>
-
-  <p align="center">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=250&lines=projects+%2F+artifacts"
-      alt="projects / artifacts"
-    />
-  </p>
+  <summary>
+    <img src="./assets/animated-projects.svg" alt="projects / artifacts" />
+  </summary>
 
   <p><img src="./assets/header-projects.svg" alt="projects / artifacts" /></p>
 
@@ -64,14 +59,9 @@ Inside each dropdown:
 </p>
 
 <details>
-  <summary><strong>🟢 skills / toolchain</strong></summary>
-
-  <p align="center">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=240&lines=skills+%2F+toolchain"
-      alt="skills / toolchain"
-    />
-  </p>
+  <summary>
+    <img src="./assets/animated-skills.svg" alt="skills / toolchain" />
+  </summary>
 
   <p><img src="./assets/header-skills.svg" alt="skills / toolchain" /></p>
 
@@ -91,14 +81,9 @@ Inside each dropdown:
 </p>
 
 <details>
-  <summary><strong>🟢 field-notes / experience</strong></summary>
-
-  <p align="center">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=260&lines=field-notes+%2F+experience"
-      alt="field-notes / experience"
-    />
-  </p>
+  <summary>
+    <img src="./assets/animated-experience.svg" alt="field-notes / experience" />
+  </summary>
 
   <p><img src="./assets/header-field-notes.svg" alt="field-notes / experience" /></p>
 
@@ -120,14 +105,9 @@ Inside each dropdown:
 </p>
 
 <details>
-  <summary><strong>🟢 credentials</strong></summary>
-
-  <p align="center">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=220&lines=credentials"
-      alt="credentials"
-    />
-  </p>
+  <summary>
+    <img src="./assets/animated-credentials.svg" alt="credentials" />
+  </summary>
 
   <p><img src="./assets/header-credentials.svg" alt="credentials" /></p>
 
@@ -150,14 +130,9 @@ Inside each dropdown:
 </p>
 
 <details>
-  <summary><strong>🟢 telemetry</strong></summary>
-
-  <p align="center">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=180&lines=telemetry"
-      alt="telemetry"
-    />
-  </p>
+  <summary>
+    <img src="./assets/animated-telemetry.svg" alt="telemetry" />
+  </summary>
 
   <p><img src="./assets/header-telemetry.svg" alt="telemetry" /></p>
 

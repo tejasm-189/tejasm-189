@@ -32,14 +32,14 @@ Inside each dropdown:
 </p>
 
 <details>
-  <summary>
-    <span style="pointer-events: none;">
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=250&lines=projects+%2F+artifacts"
-        alt="projects / artifacts"
-      />
-    </span>
-  </summary>
+  <summary><strong>🟢 projects / artifacts</strong></summary>
+
+  <p align="center">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=250&lines=projects+%2F+artifacts"
+      alt="projects / artifacts"
+    />
+  </p>
 
   <p><img src="./assets/header-projects.svg" alt="projects / artifacts" /></p>
 
@@ -64,14 +64,14 @@ Inside each dropdown:
 </p>
 
 <details>
-  <summary>
-    <span style="pointer-events: none;">
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=240&lines=skills+%2F+toolchain"
-        alt="skills / toolchain"
-      />
-    </span>
-  </summary>
+  <summary><strong>🟢 skills / toolchain</strong></summary>
+
+  <p align="center">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=240&lines=skills+%2F+toolchain"
+      alt="skills / toolchain"
+    />
+  </p>
 
   <p><img src="./assets/header-skills.svg" alt="skills / toolchain" /></p>
 
@@ -91,14 +91,14 @@ Inside each dropdown:
 </p>
 
 <details>
-  <summary>
-    <span style="pointer-events: none;">
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=260&lines=field-notes+%2F+experience"
-        alt="field-notes / experience"
-      />
-    </span>
-  </summary>
+  <summary><strong>🟢 field-notes / experience</strong></summary>
+
+  <p align="center">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=260&lines=field-notes+%2F+experience"
+      alt="field-notes / experience"
+    />
+  </p>
 
   <p><img src="./assets/header-field-notes.svg" alt="field-notes / experience" /></p>
 
@@ -120,14 +120,14 @@ Inside each dropdown:
 </p>
 
 <details>
-  <summary>
-    <span style="pointer-events: none;">
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=220&lines=credentials"
-        alt="credentials"
-      />
-    </span>
-  </summary>
+  <summary><strong>🟢 credentials</strong></summary>
+
+  <p align="center">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=220&lines=credentials"
+      alt="credentials"
+    />
+  </p>
 
   <p><img src="./assets/header-credentials.svg" alt="credentials" /></p>
 
@@ -150,14 +150,14 @@ Inside each dropdown:
 </p>
 
 <details>
-  <summary>
-    <span style="pointer-events: none;">
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=180&lines=telemetry"
-        alt="telemetry"
-      />
-    </span>
-  </summary>
+  <summary><strong>🟢 telemetry</strong></summary>
+
+  <p align="center">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=180&lines=telemetry"
+      alt="telemetry"
+    />
+  </p>
 
   <p><img src="./assets/header-telemetry.svg" alt="telemetry" /></p>
 

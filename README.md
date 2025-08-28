@@ -33,10 +33,12 @@ Inside each dropdown:
 
 <details>
   <summary>
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=250&lines=projects+%2F+artifacts"
-      alt="projects / artifacts"
-    />
+    <span style="pointer-events: none;">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=250&lines=projects+%2F+artifacts"
+        alt="projects / artifacts"
+      />
+    </span>
   </summary>
 
   <p><img src="./assets/header-projects.svg" alt="projects / artifacts" /></p>
@@ -63,10 +65,12 @@ Inside each dropdown:
 
 <details>
   <summary>
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=240&lines=skills+%2F+toolchain"
-      alt="skills / toolchain"
-    />
+    <span style="pointer-events: none;">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=240&lines=skills+%2F+toolchain"
+        alt="skills / toolchain"
+      />
+    </span>
   </summary>
 
   <p><img src="./assets/header-skills.svg" alt="skills / toolchain" /></p>
@@ -88,10 +92,12 @@ Inside each dropdown:
 
 <details>
   <summary>
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=260&lines=field-notes+%2F+experience"
-      alt="field-notes / experience"
-    />
+    <span style="pointer-events: none;">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=260&lines=field-notes+%2F+experience"
+        alt="field-notes / experience"
+      />
+    </span>
   </summary>
 
   <p><img src="./assets/header-field-notes.svg" alt="field-notes / experience" /></p>
@@ -115,10 +121,12 @@ Inside each dropdown:
 
 <details>
   <summary>
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=220&lines=credentials"
-      alt="credentials"
-    />
+    <span style="pointer-events: none;">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=220&lines=credentials"
+        alt="credentials"
+      />
+    </span>
   </summary>
 
   <p><img src="./assets/header-credentials.svg" alt="credentials" /></p>
@@ -143,10 +151,12 @@ Inside each dropdown:
 
 <details>
   <summary>
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=180&lines=telemetry"
-      alt="telemetry"
-    />
+    <span style="pointer-events: none;">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF7F&width=180&lines=telemetry"
+        alt="telemetry"
+      />
+    </span>
   </summary>
 
   <p><img src="./assets/header-telemetry.svg" alt="telemetry" /></p>
